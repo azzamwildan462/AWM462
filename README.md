@@ -2,15 +2,18 @@
 Percobaan me-remaster xubuntu 20.04
 
 Fitur:
-- Linux kernel 5.11
-- Preempt-RT kernel #otw
+- Fitur dasar Xubuntu
 
-- JACK audio server
+- Linux kernel 5.11
+- Preempt-RT kernel <**soon**>
+
+- QjackCtl
 - Pipewire pulse
 - CALF Plugin for JACK
 - DeaDBeef
 
-- Zoom #otw
-- VSCode #otw
+- Zoom 
+- VSCode 
 - net-tools
 - neofetch
+- boot-repair
