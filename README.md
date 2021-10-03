@@ -1,5 +1,8 @@
 # AWM462
 
+### Deskripsi: 
+Sebuah distro linux yang saya remaster dari Xubuntu-20.04. Fitur utamanya adalah dual-kernel yaitu Linux generic dengan Preempt-rt ditambah dengan audio server yang dahsyat yaitu JACK audio server dan pipewire. 
+
 ### Fitur:
 - Fitur dasar Xubuntu
 
