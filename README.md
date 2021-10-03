@@ -5,7 +5,7 @@ Fitur:
 - Fitur dasar Xubuntu
 
 - Linux kernel 5.11
-- Preempt-RT kernel <**soon**>
+- Preempt-RT kernel 
 
 - QjackCtl
 - Pipewire pulse
