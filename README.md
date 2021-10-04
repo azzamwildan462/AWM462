@@ -1,4 +1,4 @@
-# AWM462
+# Zvex-Fuzz
 
 ### Deskripsi: 
 Sebuah distro linux yang saya remaster dari Xubuntu-20.04. Fitur utamanya adalah dual-kernel yaitu Linux generic dengan Preempt-rt ditambah dengan audio server yang dahsyat yaitu JACK audio server dan pipewire. 
@@ -19,6 +19,8 @@ Sebuah distro linux yang saya remaster dari Xubuntu-20.04. Fitur utamanya adalah
 - net-tools
 - neofetch
 - boot-repair
+
+- Repo debian 11 (bullseye) <**uji coba**>
 
 ### Link:
 - Iso -> [https://drive.google.com/file/d/1Lw7_evThwbOQ96TwcaC4TgknjeRkrPNf/view?usp=sharing](https://drive.google.com/file/d/1Lw7_evThwbOQ96TwcaC4TgknjeRkrPNf/view?usp=sharing)
